@@ -14,3 +14,5 @@ Concept:  https://medium.com/dataseries/introduction-to-convolutional-neural-net
 
 
 Implementation: https://towardsdatascience.com/image-classifier-using-tensorflow-a8506dc21d04
+
+Transfer Learning with Medical Application: https://towardsdatascience.com/introduction-to-transfer-learning-c59f6f27e3e
